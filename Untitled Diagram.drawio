@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T17:11:17.737Z" agent="5.0 (Windows)" etag="6EUmd5t0KuYF5hTHD47d" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T17:12:14.665Z" agent="5.0 (Windows)" etag="dE3V9AzJhXNfpWW4tM_P" version="14.6.12" type="github">
   <diagram id="hXH0b08AQQ2d4b1TRlAv" name="Page-1">
     <mxGraphModel dx="1176" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,6 +142,15 @@
         </mxCell>
         <mxCell id="DkS0qUybiG9C6d9SKH95-67" value="Algorithm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="180" width="118" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="DkS0qUybiG9C6d9SKH95-71" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="615" y="97" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DkS0qUybiG9C6d9SKH95-72" value="" style="endArrow=block;html=1;fontSize=16;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="106.5" as="sourcePoint" />
+            <mxPoint x="840" y="106.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
