@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T10:56:21.082Z" agent="5.0 (Windows)" version="14.9.8" etag="b9xihJBYvTHTu_CVEV-b" type="github"><diagram id="4IdDxmssz6nfuwtqwv0A">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:10:38.161Z" agent="5.0 (Windows)" etag="QainOuwBl803ta0yxTWo" version="14.9.8" type="github">
+  <diagram id="4IdDxmssz6nfuwtqwv0A" name="Page-1">
+    <mxGraphModel dx="2070" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#919191;fillColor=#A8A8A8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="171" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Conveyor Belt&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="347" y="50" width="10" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-19" value="Working Piece" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="375" y="130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-20" value="Worker" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Gripper&lt;/font&gt;" style="shape=corner;whiteSpace=wrap;html=1;dx=20;dy=20;" vertex="1" parent="1">
+          <mxGeometry x="267" y="70" width="80" height="111.13" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-22" value="Working Piece" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="800" y="130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Remote Center&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-70" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-25" value="MCU" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#CFCFCF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="202.5" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. Clog Detection&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="260" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2. Visual Person Detection&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-17" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-120;" vertex="1" parent="1">
+          <mxGeometry x="909" y="3" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-32" value="MCU" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-30;fillColor=#D6D6D6;" vertex="1" parent="1">
+          <mxGeometry x="916" y="29" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-36" value="Working Piece" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-38" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2. Remote Notification&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-100" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-41" value="Clogging Event" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qf_pr4nh5FrAuKsPvcI9-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="970" as="sourcePoint" />
+            <mxPoint x="932" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="932" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-42" value="Alarm Event" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.702;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qf_pr4nh5FrAuKsPvcI9-29" target="Qf_pr4nh5FrAuKsPvcI9-23">
+          <mxGeometry x="-0.0553" width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="60" as="sourcePoint" />
+            <mxPoint x="900" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645" y="63" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_pr4nh5FrAuKsPvcI9-44" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=27.5;exitPerimeter=0;" edge="1" parent="1" source="Qf_pr4nh5FrAuKsPvcI9-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="110" as="sourcePoint" />
+            <mxPoint x="960" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
