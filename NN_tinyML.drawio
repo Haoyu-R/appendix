@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T23:49:01.428Z" agent="5.0 (Windows)" etag="ZD46HCbRsPFab75_SfwM" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T23:55:26.323Z" agent="5.0 (Windows)" etag="JKHqDuXOOTifSMC8r4CB" version="15.9.4" type="github">
   <diagram id="uV-LiDX_3luVWXQ_N6UU" name="Page-1">
-    <mxGraphModel dx="1540" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,6 +155,14 @@
         <mxCell id="5j0TbUP-GXuLhpRAQQWD-32" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-396" y="276.63" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="5j0TbUP-GXuLhpRAQQWD-33" target="1VmDpu4pkAnbtlpNZlza-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-119" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sosa_extended:sensorInput&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-118">
+          <mxGeometry x="0.3719" relative="1" as="geometry">
+            <mxPoint x="-30" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5j0TbUP-GXuLhpRAQQWD-33" value="ssn:Input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="484" y="351.31" width="76" height="30" as="geometry" />
         </mxCell>
@@ -283,6 +291,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2.25" y="66.19000000000004" as="sourcePoint" />
             <mxPoint x="305.5" y="47.43999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="215" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5j0TbUP-GXuLhpRAQQWD-103" value="schema:Text" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
@@ -557,32 +568,16 @@
         <mxCell id="1VmDpu4pkAnbtlpNZlza-94" value="......" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
           <mxGeometry y="118" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-95" target="5j0TbUP-GXuLhpRAQQWD-33">
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-95" target="1VmDpu4pkAnbtlpNZlza-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-114" value="sosa_extended:sensorInput" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-113">
-          <mxGeometry x="-0.5671" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-117" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sosa:madeBySensor&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-116">
+          <mxGeometry x="-0.2769" y="1" relative="1" as="geometry">
+            <mxPoint x="-34" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-95" value="schema:Observation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="415" y="276.63" width="145" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.786;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-90" target="1VmDpu4pkAnbtlpNZlza-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="260" as="sourcePoint" />
-            <mxPoint x="484" y="266.63" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="325" y="260" />
-              <mxPoint x="325" y="250" />
-              <mxPoint x="488" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-107" value="sosa:madeObservation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-106">
-          <mxGeometry x="0.0945" y="2" relative="1" as="geometry">
-            <mxPoint x="-20" y="-1" as="offset" />
-          </mxGeometry>
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-95" value="sosa:Observation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="276.63" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
