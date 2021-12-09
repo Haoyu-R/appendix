@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T00:01:32.125Z" agent="5.0 (Windows)" etag="YUJOL5rxtDV_ve9r5RZl" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T00:01:38.596Z" agent="5.0 (Windows)" etag="gqfjlkwC8Lq6O2GzD3E5" version="15.9.4" type="github">
   <diagram id="uV-LiDX_3luVWXQ_N6UU" name="Page-1">
-    <mxGraphModel dx="1849" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2299" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,9 +550,6 @@
         </mxCell>
         <mxCell id="1VmDpu4pkAnbtlpNZlza-84" value="schema:url" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="558" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-89" target="5j0TbUP-GXuLhpRAQQWD-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1VmDpu4pkAnbtlpNZlza-89" value="&lt;enumeration&gt;&#xa;sosa:Sensor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="145.25" height="144" as="geometry">
