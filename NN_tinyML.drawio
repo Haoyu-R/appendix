@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T23:58:56.500Z" agent="5.0 (Windows)" etag="suElHlKZJ6iLi5UYuGRb" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T00:01:32.125Z" agent="5.0 (Windows)" etag="YUJOL5rxtDV_ve9r5RZl" version="15.9.4" type="github">
   <diagram id="uV-LiDX_3luVWXQ_N6UU" name="Page-1">
-    <mxGraphModel dx="2299" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1849" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
         <mxCell id="1VmDpu4pkAnbtlpNZlza-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="5j0TbUP-GXuLhpRAQQWD-33" target="1VmDpu4pkAnbtlpNZlza-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-119" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sosa_extended:sensorInput&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-118">
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-119" value="&lt;font style=&quot;font-size: 14px&quot;&gt;sosa_extend:sensorInput&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1VmDpu4pkAnbtlpNZlza-118">
           <mxGeometry x="0.3719" relative="1" as="geometry">
             <mxPoint x="-35" y="3" as="offset" />
           </mxGeometry>
@@ -434,11 +434,11 @@
         <mxCell id="5j0TbUP-GXuLhpRAQQWD-173" value="s3n:Memory" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="120" y="817.51" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FzwoWbokzsxUjmKKiH4t-3" value="s3n_extension:Flash" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="833.51" width="148.5" height="22.49" as="geometry" />
+        <mxCell id="FzwoWbokzsxUjmKKiH4t-3" value="s3n_extend:Flash" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="833.51" width="128.5" height="22.49" as="geometry" />
         </mxCell>
-        <mxCell id="FzwoWbokzsxUjmKKiH4t-5" value="s3n_extension:RAM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="803.26" width="147.5" height="22.49" as="geometry" />
+        <mxCell id="FzwoWbokzsxUjmKKiH4t-5" value="s3n_extend:RAM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="803.26" width="127.5" height="22.49" as="geometry" />
         </mxCell>
         <mxCell id="FzwoWbokzsxUjmKKiH4t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FzwoWbokzsxUjmKKiH4t-5" target="5j0TbUP-GXuLhpRAQQWD-173" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -551,22 +551,25 @@
         <mxCell id="1VmDpu4pkAnbtlpNZlza-84" value="schema:url" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="558" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-89" target="5j0TbUP-GXuLhpRAQQWD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1VmDpu4pkAnbtlpNZlza-89" value="&lt;enumeration&gt;&#xa;sosa:Sensor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="165.25" y="190" width="160" height="144" as="geometry">
+          <mxGeometry x="180" y="190" width="145.25" height="144" as="geometry">
             <mxRectangle x="-615" y="448.38" width="110" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-90" value="sosa_extended:Camera" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
-          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-90" value="sosa_extend:Camera" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
+          <mxGeometry y="40" width="145.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-91" value="sosa_extended:Microphone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
-          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-91" value="sosa_extend:Microphone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
+          <mxGeometry y="66" width="145.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1VmDpu4pkAnbtlpNZlza-93" value="sosa_extended:Gyroscope" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
-          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        <mxCell id="1VmDpu4pkAnbtlpNZlza-93" value="sosa_extend:Gyroscope" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
+          <mxGeometry y="92" width="145.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1VmDpu4pkAnbtlpNZlza-94" value="......" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1VmDpu4pkAnbtlpNZlza-89">
-          <mxGeometry y="118" width="160" height="26" as="geometry" />
+          <mxGeometry y="118" width="145.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1VmDpu4pkAnbtlpNZlza-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="1VmDpu4pkAnbtlpNZlza-95" target="1VmDpu4pkAnbtlpNZlza-90">
           <mxGeometry relative="1" as="geometry" />
