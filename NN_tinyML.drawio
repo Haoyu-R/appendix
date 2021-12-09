@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T10:17:14.797Z" agent="5.0 (Windows)" etag="UT7QRnGRue21kuXVsvT1" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T10:17:31.530Z" agent="5.0 (Windows)" etag="-q6e3oTDX1ar5UOTXlId" version="15.9.4" type="github">
   <diagram id="uV-LiDX_3luVWXQ_N6UU" name="Page-1">
-    <mxGraphModel dx="2058" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,12 +598,13 @@
         <mxCell id="1VmDpu4pkAnbtlpNZlza-95" value="sosa:Observation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="438.75" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_8LB9IjqD5saj2U_Q9wq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="_8LB9IjqD5saj2U_Q9wq-6" target="1VmDpu4pkAnbtlpNZlza-90">
+        <mxCell id="_8LB9IjqD5saj2U_Q9wq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="288" y="252" as="targetPoint" />
+            <mxPoint x="454.3699999999999" y="236.63" as="sourcePoint" />
+            <mxPoint x="285.25" y="243.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="252" />
-              <mxPoint x="320" y="252" />
+              <mxPoint x="320" y="243.63" />
+              <mxPoint x="320" y="243.63" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -613,7 +614,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_8LB9IjqD5saj2U_Q9wq-6" value="sosa:Sensor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="454.38" y="230" width="88.75" height="30" as="geometry" />
+          <mxGeometry x="454.37" y="230" width="88.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
