@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T16:23:54.761Z" agent="5.0 (Windows)" etag="wA0oqbfVWDVqT83gtSKF" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T21:52:06.299Z" agent="5.0 (Windows)" etag="ER9zExdFjyseudPCInF9" version="17.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2276" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,7 +106,7 @@
         <mxCell id="Pv9-taAUnEJjod_IIfz8-43" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#121212;fillColor=none;" parent="Pv9-taAUnEJjod_IIfz8-73" vertex="1">
           <mxGeometry width="153" height="124.25" as="geometry" />
         </mxCell>
-        <mxCell id="Pv9-taAUnEJjod_IIfz8-44" value="Edge Devices" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#121212;fillColor=none;" parent="Pv9-taAUnEJjod_IIfz8-73" vertex="1">
+        <mxCell id="Pv9-taAUnEJjod_IIfz8-44" value="IoT Devices" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#121212;fillColor=none;" parent="Pv9-taAUnEJjod_IIfz8-73" vertex="1">
           <mxGeometry x="70" y="104.25" width="83" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pv9-taAUnEJjod_IIfz8-71" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
